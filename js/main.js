@@ -1,5 +1,5 @@
 const scrollUp = document.querySelector("#scroll-up");
-const burger = document.getElementById("kebab-menu");
+const kebab = document.getElementById("kebab-menu");
 const ul = document.querySelector("nav ul");
 const nav = document.querySelector("nav");
 const navLink = document.querySelectorAll(".nav-link")
